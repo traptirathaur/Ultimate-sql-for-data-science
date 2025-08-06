@@ -1,2 +1,4 @@
 # First-SQL-Project
-This is my first SQL project on github.
+My first SQL project on github but not last, journey starts here...
+
+
