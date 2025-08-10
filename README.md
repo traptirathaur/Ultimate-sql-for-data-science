@@ -1,4 +1,4 @@
-# SQL Topic-wise Queries with Questions & SQL Projects for Data Science
+# SQL Queries by Topic with Questions & Projects for "Data Science"
 
 <!--Later but not last, journey starts here...just chill chill, just chill........-->
 Here I am going to document my journey of learning sql for "Data Science".
