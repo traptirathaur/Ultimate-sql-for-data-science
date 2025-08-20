@@ -1,7 +1,10 @@
+#### Sbqs are nothing but sql queries nested within another queries(which we call as "Outer query or Main query").
+#### Sbqs must always be enclosed within parenthesis().
+
 Practicing SQL Subqueries (from Basic to Advanced)
 ________________________________________
-## Level 1: Basic Subqueries in SELECT and WHERE Clauses
-### 🧠 Concepts:
+# Level 1: Basic Subqueries in SELECT and WHERE Clauses
+## 🧠 Concepts:
 •	Scalar subqueries
 •	Simple filtering with IN, =, >, etc.
 ## 🛠 Practice Ideas:
