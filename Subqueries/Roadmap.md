@@ -1,7 +1,7 @@
 Practicing SQL Subqueries (from Basic to Advanced)
 ________________________________________
-# 🔹 Level 1: Basic Subqueries in SELECT and WHERE Clauses
-## 🧠 Concepts:
+## Level 1: Basic Subqueries in SELECT and WHERE Clauses
+### 🧠 Concepts:
 •	Scalar subqueries
 •	Simple filtering with IN, =, >, etc.
 ## 🛠 Practice Ideas:
@@ -13,7 +13,7 @@ ________________________________________
 •	List customers who placed an order (WHERE customer_id IN (...))
 •	Get the most expensive book using MAX(...) in a subquery
 ________________________________________
-# 🔹 Level 2: Subqueries in FROM Clause (Derived Tables)
+# Level 2: Subqueries in FROM Clause (Derived Tables)
 ## 🧠 Concepts:
 •	Using subqueries as inline views or temporary tables
 •	Aggregating before joining
@@ -26,7 +26,7 @@ ________________________________________
 ## 💡 Tip:
 •	Give subqueries aliases (AS temp) and treat them like real tables
 ________________________________________
-# 🔹 Level 3: Correlated Subqueries
+# Level 3: Correlated Subqueries
 ## 🧠 Concepts:
 •	Subquery that refers to outer query’s row
 •	Executes once per row in outer query
@@ -39,7 +39,7 @@ ________________________________________
 ## ⚠ Caution:
 •	These are slower than normal subqueries; practice optimizing them later
 ________________________________________
-# 🔹 Level 4: Subqueries with EXISTS, NOT EXISTS
+# Level 4: Subqueries with EXISTS, NOT EXISTS
 ## 🧠 Concepts:
 •	Use for existence checks
 •	Efficient for anti-joins (e.g. customers who haven't ordered)
@@ -50,7 +50,7 @@ ________________________________________
 •	Show books that have not been ordered
 •	Find customers who ordered every book by an author
 ________________________________________
-# 🔹 Level 5: Nested Subqueries and Multi-level Logic
+# Level 5: Nested Subqueries and Multi-level Logic
 ## 🧠 Concepts:
 •	Combining multiple subquery types (e.g., scalar inside correlated)
 •	Building reports from complex data relationships
