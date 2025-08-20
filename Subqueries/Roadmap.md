@@ -1,4 +1,4 @@
-Sbqs are nothing but sql queries nested within another queries(which we call as "Outer query or Main query").
+Sbqs are nothing but sql queries nested within another query(which we call as "Outer query or Main query").
 Sbqs must always be enclosed within parenthesis().
 
 #### Practicing SQL Subqueries (from Basic to Advanced)
